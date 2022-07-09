@@ -1,0 +1,5 @@
+asgiref==3.5.1
+Django==4.0.4
+django-prometheus==2.2.0
+prometheus-client==0.14.1
+sqlparse==0.4.2
